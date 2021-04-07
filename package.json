@@ -1,7 +1,9 @@
 {
-  "name": "dynamic-form",
+  "name": "at-dynamic-form",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
+  "main": "dist/np-form.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
